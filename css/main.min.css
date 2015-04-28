@@ -66,7 +66,7 @@ textarea {
     }
 }
 body{
-    background: url('/img/main.jpg') top center no-repeat fixed !important;
+    background: url('/bltforever/img/main.jpg') top center no-repeat fixed !important;
 }
 section.hero {
   text-align: center;
@@ -227,7 +227,7 @@ h2{
   padding: 1%;
 }
 .section-title {
-  background: url('/img/arrow.png') center no-repeat;
+  background: url('/bltforever/img/arrow.png') center no-repeat;
   margin-bottom: 245px;
   color: #fff;
   margin-top: 5%;
@@ -270,7 +270,7 @@ h2{
     color: #fff;
     padding: 0;
     text-align: center;
-    background: url('/img/arrow.png') 50% 110% no-repeat;
+    background: url('/bltforever/img/arrow.png') 50% 110% no-repeat;
     height: 500px;
 }
 .hero{
